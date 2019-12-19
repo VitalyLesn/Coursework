@@ -1,0 +1,9 @@
+C:\Users\Admin_Home\Desktop\КурсоваяWebServices\BugTrackerSOAP\BugTrackerSOAP\bin\BugTrackerSOAP.dll.config
+C:\Users\Admin_Home\Desktop\КурсоваяWebServices\BugTrackerSOAP\BugTrackerSOAP\bin\BugTrackerSOAP.dll
+C:\Users\Admin_Home\Desktop\КурсоваяWebServices\BugTrackerSOAP\BugTrackerSOAP\bin\BugTrackerSOAP.pdb
+C:\Users\Admin_Home\Desktop\КурсоваяWebServices\BugTrackerSOAP\BugTrackerSOAP\obj\Debug\BugTrackerSOAP.csproj.CoreCompileInputs.cache
+C:\Users\Admin_Home\Desktop\КурсоваяWebServices\BugTrackerSOAP\BugTrackerSOAP\obj\Debug\BugTrackerSOAP.dll
+C:\Users\Admin_Home\Desktop\КурсоваяWebServices\BugTrackerSOAP\BugTrackerSOAP\obj\Debug\BugTrackerSOAP.pdb
+C:\Users\Admin_Home\Desktop\КурсоваяWebServices\BugTrackerSOAP\BugTrackerSOAP\bin\CookComputing.XmlRpcV2.dll
+C:\Users\Admin_Home\Desktop\КурсоваяWebServices\BugTrackerSOAP\BugTrackerSOAP\obj\Debug\BugTrackerSOAP.csproj.CopyComplete
+C:\Users\Admin_Home\Desktop\КурсоваяWebServices\BugTrackerSOAP\BugTrackerSOAP\obj\Debug\BugTrackerSOAP.csprojAssemblyReference.cache

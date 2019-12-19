@@ -1,0 +1,6 @@
+C:\Users\Admin_Home\Desktop\КурсоваяWebServices\BugTrackerSOAP\BugTrackerREST\bin\BugTrackerREST.dll.config
+C:\Users\Admin_Home\Desktop\КурсоваяWebServices\BugTrackerSOAP\BugTrackerREST\bin\BugTrackerREST.dll
+C:\Users\Admin_Home\Desktop\КурсоваяWebServices\BugTrackerSOAP\BugTrackerREST\bin\BugTrackerREST.pdb
+C:\Users\Admin_Home\Desktop\КурсоваяWebServices\BugTrackerSOAP\BugTrackerREST\obj\Debug\BugTrackerREST.csproj.CoreCompileInputs.cache
+C:\Users\Admin_Home\Desktop\КурсоваяWebServices\BugTrackerSOAP\BugTrackerREST\obj\Debug\BugTrackerREST.dll
+C:\Users\Admin_Home\Desktop\КурсоваяWebServices\BugTrackerSOAP\BugTrackerREST\obj\Debug\BugTrackerREST.pdb
